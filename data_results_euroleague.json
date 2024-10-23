@@ -1,0 +1,4109 @@
+{
+    "box_score": [
+        {
+            "num": "1",
+            "first_name": "BRAE",
+            "last_name": "IVEY",
+            "short_name": "B.IVEY",
+            "team_home": true,
+            "data": [
+                "20:59",
+                "13",
+                "1/1",
+                "100.0%",
+                "1/3",
+                "33.3%",
+                "8/8",
+                "100.0%",
+                "1",
+                "2",
+                "3",
+                "4",
+                "2",
+                "3",
+                "1",
+                "0",
+                "3",
+                "6",
+                "21",
+                "-19"
+            ]
+        },
+        {
+            "num": "3",
+            "first_name": "OSARO",
+            "last_name": "RICH",
+            "short_name": "O.RICH",
+            "team_home": true,
+            "data": [
+                "22:23",
+                "10",
+                "2/5",
+                "40.0%",
+                "1/2",
+                "50.0%",
+                "3/4",
+                "75.0%",
+                "2",
+                "1",
+                "3",
+                "1",
+                "0",
+                "0",
+                "1",
+                "1",
+                "1",
+                "5",
+                "13",
+                "-6"
+            ]
+        },
+        {
+            "num": "4",
+            "first_name": "JAIZEC",
+            "last_name": "LOTTIE",
+            "short_name": "J.LOTTIE",
+            "team_home": true,
+            "data": [
+                "22:55",
+                "7",
+                "2/6",
+                "33.3%",
+                "0/4",
+                "0.0%",
+                "3/4",
+                "75.0%",
+                "0",
+                "1",
+                "1",
+                "5",
+                "2",
+                "1",
+                "0",
+                "1",
+                "1",
+                "3",
+                "6",
+                "-25"
+            ]
+        },
+        {
+            "num": "6",
+            "first_name": "LEIF",
+            "last_name": "MOELLER",
+            "short_name": "L.MOELLER",
+            "team_home": true,
+            "data": [
+                "16:07",
+                "2",
+                "1/2",
+                "50.0%",
+                "0/2",
+                "0.0%",
+                "0/2",
+                "0.0%",
+                "0",
+                "2",
+                "2",
+                "0",
+                "1",
+                "1",
+                "1",
+                "0",
+                "1",
+                "2",
+                "1",
+                "-18"
+            ]
+        },
+        {
+            "num": "8",
+            "first_name": "JARED",
+            "last_name": "GREY",
+            "short_name": "J.GREY",
+            "team_home": true,
+            "data": [
+                "07:13",
+                "0",
+                "0/0",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0/2",
+                "0.0%",
+                "1",
+                "1",
+                "2",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "1",
+                "0",
+                "-5"
+            ]
+        },
+        {
+            "num": "9",
+            "first_name": "AL-FAYED",
+            "last_name": "ALEGBE-ISSIFOU",
+            "short_name": "A.ALEGBE-ISSIFOU",
+            "team_home": true,
+            "data": [
+                "00:00",
+                "0",
+                "0/0",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                ""
+            ]
+        },
+        {
+            "num": "11",
+            "first_name": "KEONDRE",
+            "last_name": "KENNEDY",
+            "short_name": "K.KENNEDY",
+            "team_home": true,
+            "data": [
+                "12:12",
+                "9",
+                "2/4",
+                "50.0%",
+                "1/3",
+                "33.3%",
+                "2/2",
+                "100.0%",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "1",
+                "0",
+                "1",
+                "3",
+                "1",
+                "3",
+                "-24"
+            ]
+        },
+        {
+            "num": "14",
+            "first_name": "CAMRON",
+            "last_name": "REECE",
+            "short_name": "C.REECE",
+            "team_home": true,
+            "data": [
+                "16:29",
+                "7",
+                "2/7",
+                "28.6%",
+                "0/0",
+                "0.0%",
+                "3/3",
+                "100.0%",
+                "3",
+                "3",
+                "6",
+                "2",
+                "1",
+                "4",
+                "0",
+                "1",
+                "5",
+                "2",
+                "3",
+                "-23"
+            ]
+        },
+        {
+            "num": "15",
+            "first_name": "MIKA",
+            "last_name": "TANGERMANN",
+            "short_name": "M.TANGERMANN",
+            "team_home": true,
+            "data": [
+                "11:07",
+                "0",
+                "0/1",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0",
+                "1",
+                "1",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "2",
+                ""
+            ]
+        },
+        {
+            "num": "21",
+            "first_name": "JORDAN",
+            "last_name": "BARNETT",
+            "short_name": "J.BARNETT",
+            "team_home": true,
+            "data": [
+                "24:37",
+                "15",
+                "7/7",
+                "100.0%",
+                "0/7",
+                "0.0%",
+                "1/1",
+                "100.0%",
+                "0",
+                "2",
+                "2",
+                "1",
+                "0",
+                "2",
+                "1",
+                "0",
+                "2",
+                "2",
+                "10",
+                "-12"
+            ]
+        },
+        {
+            "num": "25",
+            "first_name": "KENNETH",
+            "last_name": "OGBE",
+            "short_name": "K.OGBE",
+            "team_home": true,
+            "data": [
+                "24:07",
+                "2",
+                "1/2",
+                "50.0%",
+                "0/3",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "2",
+                "2",
+                "4",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "2",
+                "0",
+                "0",
+                "-18"
+            ]
+        },
+        {
+            "num": "33",
+            "first_name": "PATRICK",
+            "last_name": "HECKMANN",
+            "short_name": "P.HECKMANN",
+            "team_home": true,
+            "data": [
+                "21:51",
+                "2",
+                "1/3",
+                "33.3%",
+                "0/2",
+                "0.0%",
+                "0/1",
+                "0.0%",
+                "0",
+                "2",
+                "2",
+                "3",
+                "1",
+                "1",
+                "0",
+                "0",
+                "4",
+                "1",
+                "-1",
+                "-30"
+            ]
+        },
+        {
+            "num": "",
+            "first_name": "",
+            "last_name": "",
+            "short_name": "Team",
+            "team_home": true,
+            "data": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "0",
+                "-2",
+                ""
+            ]
+        },
+        {
+            "num": "",
+            "first_name": "",
+            "last_name": "",
+            "short_name": "Total",
+            "team_home": true,
+            "data": [
+                "200:00",
+                "67",
+                "19/38",
+                "50.0%",
+                "3/26",
+                "11.5%",
+                "20/27",
+                "74.1%",
+                "10",
+                "17",
+                "27",
+                "16",
+                "9",
+                "15",
+                "4",
+                "4",
+                "23",
+                "24",
+                "56",
+                "-180"
+            ]
+        },
+        {
+            "num": "0",
+            "first_name": "KAREL",
+            "last_name": "GUZMAN",
+            "short_name": "K.GUZMAN",
+            "team_home": false,
+            "data": [
+                "19:54",
+                "6",
+                "2/2",
+                "100.0%",
+                "0/1",
+                "0.0%",
+                "2/2",
+                "100.0%",
+                "1",
+                "1",
+                "2",
+                "2",
+                "0",
+                "1",
+                "1",
+                "0",
+                "4",
+                "3",
+                "8",
+                "+11"
+            ]
+        },
+        {
+            "num": "1",
+            "first_name": "KEVIN",
+            "last_name": "HERVEY",
+            "short_name": "K.HERVEY",
+            "team_home": false,
+            "data": [
+                "16:37",
+                "2",
+                "1/1",
+                "100.0%",
+                "0/4",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0",
+                "4",
+                "4",
+                "2",
+                "2",
+                "2",
+                "0",
+                "0",
+                "1",
+                "0",
+                "3",
+                "+21"
+            ]
+        },
+        {
+            "num": "2",
+            "first_name": "TUDOR",
+            "last_name": "SOMACESCU",
+            "short_name": "T.SOMACESCU",
+            "team_home": false,
+            "data": [
+                "07:39",
+                "2",
+                "0/1",
+                "0.0%",
+                "0/1",
+                "0.0%",
+                "2/2",
+                "100.0%",
+                "0",
+                "1",
+                "1",
+                "0",
+                "0",
+                "1",
+                "0",
+                "0",
+                "2",
+                "1",
+                "-1",
+                "+2"
+            ]
+        },
+        {
+            "num": "3",
+            "first_name": "ZAVIER",
+            "last_name": "SIMPSON",
+            "short_name": "Z.SIMPSON",
+            "team_home": false,
+            "data": [
+                "24:42",
+                "28",
+                "7/11",
+                "63.6%",
+                "3/4",
+                "75.0%",
+                "5/7",
+                "71.4%",
+                "0",
+                "1",
+                "1",
+                "8",
+                "2",
+                "2",
+                "0",
+                "2",
+                "2",
+                "5",
+                "31",
+                "+29"
+            ]
+        },
+        {
+            "num": "5",
+            "first_name": "MAREKS",
+            "last_name": "MEJERIS",
+            "short_name": "M.MEJERIS",
+            "team_home": false,
+            "data": [
+                "15:28",
+                "6",
+                "3/3",
+                "100.0%",
+                "0/1",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0",
+                "1",
+                "1",
+                "3",
+                "0",
+                "1",
+                "1",
+                "0",
+                "0",
+                "1",
+                "10",
+                "+22"
+            ]
+        },
+        {
+            "num": "9",
+            "first_name": "SASU",
+            "last_name": "SALIN",
+            "short_name": "S.SALIN",
+            "team_home": false,
+            "data": [
+                "19:28",
+                "12",
+                "0/0",
+                "0.0%",
+                "3/3",
+                "100.0%",
+                "3/3",
+                "100.0%",
+                "0",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "4",
+                "18",
+                "+19"
+            ]
+        },
+        {
+            "num": "10",
+            "first_name": "ZACH",
+            "last_name": "HANKINS",
+            "short_name": "Z.HANKINS",
+            "team_home": false,
+            "data": [
+                "22:18",
+                "6",
+                "3/3",
+                "100.0%",
+                "0/0",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0",
+                "10",
+                "10",
+                "0",
+                "1",
+                "7",
+                "0",
+                "0",
+                "3",
+                "2",
+                "9",
+                "+21"
+            ]
+        },
+        {
+            "num": "11",
+            "first_name": "DENNIS",
+            "last_name": "SEELEY",
+            "short_name": "D.SEELEY",
+            "team_home": false,
+            "data": [
+                "19:26",
+                "10",
+                "2/2",
+                "100.0%",
+                "2/3",
+                "66.7%",
+                "0/0",
+                "0.0%",
+                "0",
+                "0",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "12",
+                "+17"
+            ]
+        },
+        {
+            "num": "23",
+            "first_name": "DE'SHAWN",
+            "last_name": "STEPHENS",
+            "short_name": "D.STEPHENS",
+            "team_home": false,
+            "data": [
+                "17:42",
+                "11",
+                "4/6",
+                "66.7%",
+                "0/0",
+                "0.0%",
+                "3/6",
+                "50.0%",
+                "2",
+                "7",
+                "9",
+                "0",
+                "0",
+                "0",
+                "1",
+                "1",
+                "4",
+                "4",
+                "15",
+                "+15"
+            ]
+        },
+        {
+            "num": "25",
+            "first_name": "MIHAI",
+            "last_name": "MACIUCA",
+            "short_name": "M.MACIUCA",
+            "team_home": false,
+            "data": [
+                "05:47",
+                "2",
+                "1/2",
+                "50.0%",
+                "0/2",
+                "0.0%",
+                "0/0",
+                "0.0%",
+                "0",
+                "2",
+                "2",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "2",
+                "0",
+                "-2",
+                "-3"
+            ]
+        },
+        {
+            "num": "35",
+            "first_name": "PATRICK",
+            "last_name": "RICHARD",
+            "short_name": "P.RICHARD",
+            "team_home": false,
+            "data": [
+                "14:47",
+                "5",
+                "0/0",
+                "0.0%",
+                "1/2",
+                "50.0%",
+                "2/2",
+                "100.0%",
+                "0",
+                "0",
+                "0",
+                "2",
+                "2",
+                "2",
+                "0",
+                "0",
+                "2",
+                "2",
+                "6",
+                "+22"
+            ]
+        },
+        {
+            "num": "95",
+            "first_name": "ADAM",
+            "last_name": "MOKOKA",
+            "short_name": "A.MOKOKA",
+            "team_home": false,
+            "data": [
+                "16:12",
+                "13",
+                "6/8",
+                "75.0%",
+                "0/0",
+                "0.0%",
+                "1/1",
+                "100.0%",
+                "1",
+                "2",
+                "3",
+                "2",
+                "1",
+                "2",
+                "1",
+                "0",
+                "3",
+                "1",
+                "14",
+                "+4"
+            ]
+        },
+        {
+            "num": "",
+            "first_name": "",
+            "last_name": "",
+            "short_name": "Team",
+            "team_home": false,
+            "data": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "1",
+                "3",
+                "4",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "4",
+                ""
+            ]
+        },
+        {
+            "num": "",
+            "first_name": "",
+            "last_name": "",
+            "short_name": "Total",
+            "team_home": false,
+            "data": [
+                "200:00",
+                "103",
+                "29/39",
+                "74.4%",
+                "9/21",
+                "42.9%",
+                "18/23",
+                "78.3%",
+                "5",
+                "33",
+                "38",
+                "23",
+                "9",
+                "18",
+                "4",
+                "4",
+                "24",
+                "23",
+                "127",
+                "+180"
+            ]
+        }
+    ],
+    "graphic_stats": {
+        "PIR_home": 56,
+        "PIR_away": 127,
+        "PTS_home": 67,
+        "PTS_away": 103,
+        "2P%_home": 50.0,
+        "2P%_away": 74.4,
+        "3P%_home": 11.5,
+        "3P%_away": 42.9,
+        "FT%_home": 74.1,
+        "FT%_away": 78.3,
+        "OREB_home": 10,
+        "OREB_away": 5,
+        "DREB_home": 17,
+        "DREB_away": 33,
+        "TREB_home": 27,
+        "TREB_away": 38,
+        "AST_home": 16,
+        "AST_away": 23,
+        "STL_home": 9,
+        "STL_away": 9,
+        "BLK_home": 4,
+        "BLK_away": 4,
+        "TO_home": 15,
+        "TO_away": 18
+    },
+    "shooting_chart": [
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P013307",
+            "full_name": "EGBE, DARREN",
+            "nu": "0",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/043acf49-4668-41d4-8a48-7e9a52dfe6b3.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P013308",
+            "full_name": "IVEY, BRAE",
+            "nu": "1",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/b345f755-b6e2-4407-bf4f-d3b43200d1c3.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P011256",
+            "full_name": "RICH, OSARO",
+            "nu": "3",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/541666bd-c515-4ed8-b17f-b4154f0423ce.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P013309",
+            "full_name": "LOTTIE, JAIZEC",
+            "nu": "4",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/a90c6860-1db9-4e79-aecd-20c7ec2de79b.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P008103",
+            "full_name": "MARONKA, ZSOMBOR",
+            "nu": "5",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/9921754e-a88e-481a-813a-448ab9bdee7c.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P010070",
+            "full_name": "MOELLER, LEIF",
+            "nu": "6",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/cc559358-d061-409c-b9f4-3e1db0a54c2b.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P013310",
+            "full_name": "GREY, JARED",
+            "nu": "8",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/f64fbc22-8e36-4ec0-b3d4-f63f7f620e05.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P012011",
+            "full_name": "ALEGBE-ISSIFOU, AL-FAYED",
+            "nu": "9",
+            "st": 0,
+            "sl": 1,
+            "nn": 0,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/2e5fc2da-1428-4b80-8138-717d6d76d61f.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P013311",
+            "full_name": "KENNEDY, KEONDRE",
+            "nu": "11",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/5ee43750-62e7-4da5-9860-83f1e1891ca4.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P012695",
+            "full_name": "REECE, CAMRON",
+            "nu": "14",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Center",
+            "image_url": "https://media-cdn.incrowdsports.com/cd60eb65-2fb8-4bd9-b357-7f58d7c50a98.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P012690",
+            "full_name": "TANGERMANN, MIKA",
+            "nu": "15",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Center",
+            "image_url": "https://media-cdn.incrowdsports.com/6851d589-281f-4fd0-89ee-e3b4777d3eff.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P005478",
+            "full_name": "WIMBERG, NIKLAS",
+            "nu": "17",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/3f137117-7b85-4da1-9776-534a4597a618.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P013312",
+            "full_name": "BARNETT, JORDAN",
+            "nu": "21",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/c15fe714-7ff7-40df-8db3-72ad244adabf.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P013313",
+            "full_name": "KUATH, KUR",
+            "nu": "23",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Center",
+            "image_url": "https://media-cdn.incrowdsports.com/cf613784-87cc-4bf1-83e4-da8b30cb6238.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P003242",
+            "full_name": "OGBE, KENNETH",
+            "nu": "25",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/76252bf2-347b-4d61-b674-d76f6a5d8fc0.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P006420",
+            "full_name": "HECKMANN, PATRICK",
+            "nu": "33",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/869361ed-b661-4c3b-a1fd-60cce47b3942.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": true,
+            "c": "HAM",
+            "ac": "P006006",
+            "full_name": "TURUDIC, BENEDIKT",
+            "nu": "44",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Center",
+            "image_url": "https://media-cdn.incrowdsports.com/535a1d83-23ae-456c-b6e0-dd8823b85500.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P013307",
+            "full_name": "EGBE, DARREN",
+            "nu": "0",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/043acf49-4668-41d4-8a48-7e9a52dfe6b3.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P013308",
+            "full_name": "IVEY, BRAE",
+            "nu": "1",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/b345f755-b6e2-4407-bf4f-d3b43200d1c3.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P011256",
+            "full_name": "RICH, OSARO",
+            "nu": "3",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/541666bd-c515-4ed8-b17f-b4154f0423ce.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P013309",
+            "full_name": "LOTTIE, JAIZEC",
+            "nu": "4",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/a90c6860-1db9-4e79-aecd-20c7ec2de79b.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P008103",
+            "full_name": "MARONKA, ZSOMBOR",
+            "nu": "5",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/9921754e-a88e-481a-813a-448ab9bdee7c.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P010070",
+            "full_name": "MOELLER, LEIF",
+            "nu": "6",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/cc559358-d061-409c-b9f4-3e1db0a54c2b.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P013310",
+            "full_name": "GREY, JARED",
+            "nu": "8",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/f64fbc22-8e36-4ec0-b3d4-f63f7f620e05.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P012011",
+            "full_name": "ALEGBE-ISSIFOU, AL-FAYED",
+            "nu": "9",
+            "st": 0,
+            "sl": 1,
+            "nn": 0,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/2e5fc2da-1428-4b80-8138-717d6d76d61f.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P013311",
+            "full_name": "KENNEDY, KEONDRE",
+            "nu": "11",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/5ee43750-62e7-4da5-9860-83f1e1891ca4.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P012695",
+            "full_name": "REECE, CAMRON",
+            "nu": "14",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Center",
+            "image_url": "https://media-cdn.incrowdsports.com/cd60eb65-2fb8-4bd9-b357-7f58d7c50a98.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P012690",
+            "full_name": "TANGERMANN, MIKA",
+            "nu": "15",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Center",
+            "image_url": "https://media-cdn.incrowdsports.com/6851d589-281f-4fd0-89ee-e3b4777d3eff.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P005478",
+            "full_name": "WIMBERG, NIKLAS",
+            "nu": "17",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/3f137117-7b85-4da1-9776-534a4597a618.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P013312",
+            "full_name": "BARNETT, JORDAN",
+            "nu": "21",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Guard",
+            "image_url": "https://media-cdn.incrowdsports.com/c15fe714-7ff7-40df-8db3-72ad244adabf.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P013313",
+            "full_name": "KUATH, KUR",
+            "nu": "23",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Center",
+            "image_url": "https://media-cdn.incrowdsports.com/cf613784-87cc-4bf1-83e4-da8b30cb6238.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P003242",
+            "full_name": "OGBE, KENNETH",
+            "nu": "25",
+            "st": 1,
+            "sl": 1,
+            "nn": 1,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/76252bf2-347b-4d61-b674-d76f6a5d8fc0.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P006420",
+            "full_name": "HECKMANN, PATRICK",
+            "nu": "33",
+            "st": 0,
+            "sl": 1,
+            "nn": 1,
+            "p": "Forward",
+            "image_url": "https://media-cdn.incrowdsports.com/869361ed-b661-4c3b-a1fd-60cce47b3942.png"
+        },
+        {
+            "game_code": "40",
+            "team_id": false,
+            "c": "HAM",
+            "ac": "P006006",
+            "full_name": "TURUDIC, BENEDIKT",
+            "nu": "44",
+            "st": 0,
+            "sl": 0,
+            "nn": 0,
+            "p": "Center",
+            "image_url": "https://media-cdn.incrowdsports.com/535a1d83-23ae-456c-b6e0-dd8823b85500.png"
+        }
+    ],
+    "result_graph": [],
+    "playbyplay": [
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "00:00",
+            "team2_event": "MOKOKA, ADAMMissed Two Pointer (0/1 -  0 pt)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "HECKMANN, PATRICKAssist (1)",
+            "time_remaining": "00:03",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "00:31",
+            "team2_event": "MOKOKA, ADAMAssist (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "00:36",
+            "team2_event": "HERVEY, KEVINSteal (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "MOELLER, LEIFTurnover (1)",
+            "time_remaining": "00:37",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "HECKMANN, PATRICKDef Rebound (1)",
+            "time_remaining": "00:41",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "00:44",
+            "team2_event": "HERVEY, KEVINMissed Three Pointer (0/1 -  0 pt)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "KENNEDY, KEONDREFoul Drawn (1)",
+            "time_remaining": "00:59",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "00:59",
+            "team2_event": "RICHARD, PATRICKFoul (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "KENNEDY, KEONDRESteal (1)",
+            "time_remaining": "00:59",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "00:59",
+            "team2_event": "HERVEY, KEVINTurnover (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "00:59",
+            "team2_event": "HERVEY, KEVINDef Rebound (3)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "00:58",
+            "team2_event": "GUZMAN, KARELBlock (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "KENNEDY, KEONDREShot Rejected (1)",
+            "time_remaining": "01:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "KENNEDY, KEONDREMissed Three Pointer (0/1 -  0 pt)",
+            "time_remaining": "01:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "01:15",
+            "team2_event": "GUZMAN, KARELFoul Drawn (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "KENNEDY, KEONDREFoul (1)",
+            "time_remaining": "01:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "01:26",
+            "team2_event": "STEPHENS, DE'SHAWNDef Rebound (3)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "LOTTIE, JAIZECMissed Three Pointer (0/2 -  0 pt)",
+            "time_remaining": "01:28",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "01:49",
+            "team2_event": "MOKOKA, ADAMTurnover (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "01:52",
+            "team2_event": "STEPHENS, DE'SHAWNDef Rebound (2)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "BARNETT, JORDANMissed Three Pointer (0/4 -  2 pt)",
+            "time_remaining": "01:54",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "02:15",
+            "team2_event": "RICHARD, PATRICKTurnover (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "02:28",
+            "team2_event": "STEPHENS, DE'SHAWNDef Rebound (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "LOTTIE, JAIZECMissed Three Pointer (0/1 -  0 pt)",
+            "time_remaining": "02:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "02:52",
+            "team2_event": "SIMPSON, ZAVIEROut"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "02:52",
+            "team2_event": "MOKOKA, ADAMIn"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "OGBE, KENNETHOut",
+            "time_remaining": "02:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "KENNEDY, KEONDREIn",
+            "time_remaining": "02:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "02:52",
+            "team2_event": "STEPHENS, DE'SHAWNFoul Drawn (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "OGBE, KENNETHFoul (1)",
+            "time_remaining": "02:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "02:53",
+            "team2_event": "RICHARD, PATRICKMissed Three Pointer (0/1 -  0 pt)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "03:04",
+            "team2_event": "HERVEY, KEVINDef Rebound (2)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "OGBE, KENNETHMissed Three Pointer (0/2 -  0 pt)",
+            "time_remaining": "03:07",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "OGBE, KENNETHOff Rebound (1)",
+            "time_remaining": "03:14",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "HECKMANN, PATRICKMissed Three Pointer (0/1 -  0 pt)",
+            "time_remaining": "03:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "MOELLER, LEIFDef Rebound (1)",
+            "time_remaining": "03:22",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "BARNETT, JORDANBlock (1)",
+            "time_remaining": "03:24",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "03:27",
+            "team2_event": "STEPHENS, DE'SHAWNShot Rejected (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "03:27",
+            "team2_event": "STEPHENS, DE'SHAWNMissed Two Pointer (1/2 -  2 pt)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "03:50",
+            "team2_event": "HERVEY, KEVINDef Rebound (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "MOELLER, LEIFMissed Three Pointer (0/1 -  0 pt)",
+            "time_remaining": "03:51",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:04",
+            "team2_event": "SIMPSON, ZAVIERAssist (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "BARNETT, JORDANIn",
+            "time_remaining": "04:29",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONOut",
+            "time_remaining": "04:29",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "MOELLER, LEIFIn",
+            "time_remaining": "04:29",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "RICH, OSAROOut",
+            "time_remaining": "04:29",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONFoul Drawn (1)",
+            "time_remaining": "04:29",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:29",
+            "team2_event": "STEPHENS, DE'SHAWNFoul (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONOff Rebound (1)",
+            "time_remaining": "04:29",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "HECKMANN, PATRICKMissed Two Pointer (0/2 -  0 pt)",
+            "time_remaining": "04:29",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:29",
+            "team2_event": "RICHARD, PATRICKIn"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:29",
+            "team2_event": "SEELEY, DENNISOut"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:29",
+            "team2_event": "SALIN, SASUOut"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:29",
+            "team2_event": "GUZMAN, KARELIn"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:29",
+            "team2_event": "TV Time Out (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONDef Rebound (2)",
+            "time_remaining": "04:44",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "RICH, OSAROBlock (1)",
+            "time_remaining": "04:45",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:47",
+            "team2_event": "SIMPSON, ZAVIERShot Rejected (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "04:47",
+            "team2_event": "SIMPSON, ZAVIERMissed Two Pointer (2/4 -  7 pt)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "05:18",
+            "team2_event": "STEPHENS, DE'SHAWNIn"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "05:18",
+            "team2_event": "HANKINS, ZACHOut"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "LOTTIE, JAIZECFoul Drawn (1)",
+            "time_remaining": "05:18",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "05:18",
+            "team2_event": "HANKINS, ZACHTurnover (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "05:18",
+            "team2_event": "HANKINS, ZACHOffensive Foul (2)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "05:23",
+            "team2_event": "HANKINS, ZACHDef Rebound (2)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONMissed Two Pointer (0/1 -  0 pt)",
+            "time_remaining": "05:25",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONDef Rebound (1)",
+            "time_remaining": "05:37",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "05:39",
+            "team2_event": "SIMPSON, ZAVIERMissed Two Pointer (2/3 -  7 pt)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "05:58",
+            "team2_event": "HANKINS, ZACHFoul Drawn (2)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONFoul (2)",
+            "time_remaining": "05:58",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "05:58",
+            "team2_event": "Def Rebound (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "HECKMANN, PATRICKMissed Two Pointer (0/1 -  0 pt)",
+            "time_remaining": "05:58",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "06:19",
+            "team2_event": "MEJERIS, MAREKSOut"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "06:19",
+            "team2_event": "HERVEY, KEVINIn"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "HECKMANN, PATRICKIn",
+            "time_remaining": "06:19",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "BARNETT, JORDANOut",
+            "time_remaining": "06:19",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "06:19",
+            "team2_event": "HANKINS, ZACHFoul Drawn (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONFoul (1)",
+            "time_remaining": "06:19",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "LOTTIE, JAIZECAssist (1)",
+            "time_remaining": "06:28",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "TANGERMANN, MIKAOut",
+            "time_remaining": "06:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "REECE, CAMRONIn",
+            "time_remaining": "06:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "LOTTIE, JAIZECIn",
+            "time_remaining": "06:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "IVEY, BRAEOut",
+            "time_remaining": "06:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "TANGERMANN, MIKAFoul Drawn (1)",
+            "time_remaining": "06:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "06:34",
+            "team2_event": "HANKINS, ZACHFoul (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "06:44",
+            "team2_event": "SEELEY, DENNISAssist (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "RICH, OSAROOff Rebound (2)",
+            "time_remaining": "07:04",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "BARNETT, JORDANMissed Three Pointer (0/3 -  0 pt)",
+            "time_remaining": "07:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "IVEY, BRAEOff Rebound (1)",
+            "time_remaining": "07:18",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "BARNETT, JORDANMissed Three Pointer (0/2 -  0 pt)",
+            "time_remaining": "07:20",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "OGBE, KENNETHDef Rebound (1)",
+            "time_remaining": "07:43",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "07:43",
+            "team2_event": "MEJERIS, MAREKSMissed Three Pointer (0/1 -  2 pt)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "RICH, OSAROAssist (1)",
+            "time_remaining": "08:04",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "08:32",
+            "team2_event": "SALIN, SASUFoul Drawn (2)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "RICH, OSAROFoul (1)",
+            "time_remaining": "08:32",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "08:39",
+            "team2_event": "HANKINS, ZACHDef Rebound (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "OGBE, KENNETHMissed Three Pointer (0/1 -  0 pt)",
+            "time_remaining": "08:42",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "09:19",
+            "team2_event": "SALIN, SASUFoul Drawn (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "IVEY, BRAETurnover (1)",
+            "time_remaining": "09:19",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "IVEY, BRAEOffensive Foul (1)",
+            "time_remaining": "09:19",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "RICH, OSAROOff Rebound (1)",
+            "time_remaining": "09:23",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "BARNETT, JORDANMissed Three Pointer (0/1 -  0 pt)",
+            "time_remaining": "09:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "09:43",
+            "team2_event": "MEJERIS, MAREKSAssist (1)"
+        },
+        {
+            "quarter": 1,
+            "team1_event": "",
+            "time_remaining": "09:59",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "Turnover (1)",
+            "time_remaining": "00:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "KENNEDY, KEONDREMissed Two Pointer (0/2 -  5 pt)",
+            "time_remaining": "00:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "00:39",
+            "team2_event": "Def Rebound (2)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "00:39",
+            "team2_event": "MEJERIS, MAREKSBlock (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "LOTTIE, JAIZECShot Rejected (1)",
+            "time_remaining": "00:39",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "LOTTIE, JAIZECMissed Two Pointer (0/3 -  0 pt)",
+            "time_remaining": "00:39",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "00:55",
+            "team2_event": "SIMPSON, ZAVIERAssist (5)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "01:15",
+            "team2_event": "Time Out (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONAssist (1)",
+            "time_remaining": "01:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "OGBE, KENNETHOff Rebound (2)",
+            "time_remaining": "01:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "LOTTIE, JAIZECMissed Two Pointer (0/2 -  0 pt)",
+            "time_remaining": "01:32",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "01:43",
+            "team2_event": "SIMPSON, ZAVIERAssist (4)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "01:48",
+            "team2_event": "SALIN, SASUSteal (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONTurnover (3)",
+            "time_remaining": "01:50",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "02:00",
+            "team2_event": "SIMPSON, ZAVIERAssist (3)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "02:05",
+            "team2_event": "SIMPSON, ZAVIERDef Rebound (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "KENNEDY, KEONDREMissed Three Pointer (0/2 -  2 pt)",
+            "time_remaining": "02:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "02:20",
+            "team2_event": "STEPHENS, DE'SHAWNIn"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "02:20",
+            "team2_event": "HANKINS, ZACHOut"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "02:20",
+            "team2_event": "HANKINS, ZACHTurnover (2)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "02:34",
+            "team2_event": "HANKINS, ZACHSteal (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONTurnover (2)",
+            "time_remaining": "02:35",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "KENNEDY, KEONDREOff Rebound (1)",
+            "time_remaining": "02:43",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "LOTTIE, JAIZECMissed Two Pointer (0/1 -  0 pt)",
+            "time_remaining": "02:45",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONOff Rebound (3)",
+            "time_remaining": "02:47",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONMissed Two Pointer (1/4 -  4 pt)",
+            "time_remaining": "02:48",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONOff Rebound (2)",
+            "time_remaining": "02:50",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "KENNEDY, KEONDREMissed Two Pointer (0/1 -  2 pt)",
+            "time_remaining": "02:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "KENNEDY, KEONDREIn",
+            "time_remaining": "03:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "LOTTIE, JAIZECIn",
+            "time_remaining": "03:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "RICH, OSAROOut",
+            "time_remaining": "03:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "IVEY, BRAEOut",
+            "time_remaining": "03:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "Time Out (2)",
+            "time_remaining": "03:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "03:15",
+            "team2_event": "MEJERIS, MAREKSAssist (3)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "03:35",
+            "team2_event": "HANKINS, ZACHDef Rebound (4)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "RICH, OSAROMissed Three Pointer (1/2 -  5 pt)",
+            "time_remaining": "03:38",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "OGBE, KENNETHDef Rebound (2)",
+            "time_remaining": "03:53",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "03:55",
+            "team2_event": "SIMPSON, ZAVIERMissed Three Pointer (1/2 -  7 pt)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "04:04",
+            "team2_event": "SALIN, SASUDef Rebound (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "OGBE, KENNETHMissed Two Pointer (0/1 -  0 pt)",
+            "time_remaining": "04:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "04:29",
+            "team2_event": "MEJERIS, MAREKSAssist (2)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "04:37",
+            "team2_event": "HANKINS, ZACHDef Rebound (3)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "RICH, OSAROMissed Two Pointer (1/2 -  5 pt)",
+            "time_remaining": "04:39",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:03",
+            "team2_event": "MEJERIS, MAREKSTurnover (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "TANGERMANN, MIKAOut",
+            "time_remaining": "05:12",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONIn",
+            "time_remaining": "05:12",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:12",
+            "team2_event": "MOKOKA, ADAMOut"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:12",
+            "team2_event": "SIMPSON, ZAVIERIn"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "IVEY, BRAEFoul Drawn (2)",
+            "time_remaining": "05:12",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:12",
+            "team2_event": "MOKOKA, ADAMFoul (2)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:28",
+            "team2_event": "SEELEY, DENNISAssist (2)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:43",
+            "team2_event": "MEJERIS, MAREKSFoul Drawn (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "HECKMANN, PATRICKFoul (1)",
+            "time_remaining": "05:43",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:43",
+            "team2_event": "MEJERIS, MAREKSDef Rebound (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "OGBE, KENNETHMissed Three Pointer (0/3 -  0 pt)",
+            "time_remaining": "05:45",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:51",
+            "team2_event": "MEJERIS, MAREKSIn"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:51",
+            "team2_event": "SIMPSON, ZAVIEROut"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "HECKMANN, PATRICKIn",
+            "time_remaining": "05:51",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "BARNETT, JORDANOut",
+            "time_remaining": "05:51",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "BARNETT, JORDANFoul Drawn (1)",
+            "time_remaining": "05:51",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "05:51",
+            "team2_event": "SIMPSON, ZAVIERFoul (2)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "RICH, OSAROFoul Drawn (1)",
+            "time_remaining": "06:05",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "06:05",
+            "team2_event": "MOKOKA, ADAMFoul (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "RICH, OSARODef Rebound (1)",
+            "time_remaining": "06:05",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "06:06",
+            "team2_event": "SIMPSON, ZAVIERMissed Two Pointer (2/5 -  7 pt)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "06:21",
+            "team2_event": "MOKOKA, ADAMOff Rebound (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "06:23",
+            "team2_event": "SEELEY, DENNISMissed Three Pointer (0/1 -  0 pt)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "06:58",
+            "team2_event": "SALIN, SASUAssist (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "IVEY, BRAEFoul Drawn (1)",
+            "time_remaining": "07:11",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "07:11",
+            "team2_event": "SIMPSON, ZAVIERFoul (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "07:32",
+            "team2_event": "STEPHENS, DE'SHAWNOut"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "07:32",
+            "team2_event": "HANKINS, ZACHIn"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "07:32",
+            "team2_event": "SALIN, SASUIn"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "07:32",
+            "team2_event": "GUZMAN, KARELOut"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "LOTTIE, JAIZECOut",
+            "time_remaining": "07:32",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "RICH, OSAROIn",
+            "time_remaining": "07:32",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "Time Out (1)",
+            "time_remaining": "07:32",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "07:32",
+            "team2_event": "SIMPSON, ZAVIERAssist (2)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "07:42",
+            "team2_event": "STEPHENS, DE'SHAWNDef Rebound (5)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "IVEY, BRAEMissed Three Pointer (1/2 -  3 pt)",
+            "time_remaining": "07:45",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "TANGERMANN, MIKADef Rebound (1)",
+            "time_remaining": "08:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:06",
+            "team2_event": "STEPHENS, DE'SHAWNMissed Free Throw (3/4 -  5 pt)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:06",
+            "team2_event": "GUZMAN, KARELAssist (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "TANGERMANN, MIKAIn",
+            "time_remaining": "08:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONOut",
+            "time_remaining": "08:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:06",
+            "team2_event": "STEPHENS, DE'SHAWNFoul Drawn (2)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONFoul (3)",
+            "time_remaining": "08:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:20",
+            "team2_event": "SIMPSON, ZAVIERSteal (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONTurnover (1)",
+            "time_remaining": "08:20",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:37",
+            "team2_event": "RICHARD, PATRICKOut"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:37",
+            "team2_event": "SEELEY, DENNISIn"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:37",
+            "team2_event": "SIMPSON, ZAVIERIn"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:37",
+            "team2_event": "HERVEY, KEVINOut"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "OGBE, KENNETHIn",
+            "time_remaining": "08:37",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "KENNEDY, KEONDREOut",
+            "time_remaining": "08:37",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:37",
+            "team2_event": "MOKOKA, ADAMFoul Drawn (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "KENNEDY, KEONDREFoul (3)",
+            "time_remaining": "08:37",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "08:37",
+            "team2_event": "RICHARD, PATRICKAssist (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "LOTTIE, JAIZECAssist (2)",
+            "time_remaining": "08:53",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "09:35",
+            "team2_event": "RICHARD, PATRICKFoul Drawn (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "KENNEDY, KEONDREFoul (2)",
+            "time_remaining": "09:35",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "09:35",
+            "team2_event": "STEPHENS, DE'SHAWNDef Rebound (4)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "",
+            "time_remaining": "09:35",
+            "team2_event": "MOKOKA, ADAMBlock (1)"
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONShot Rejected (1)",
+            "time_remaining": "09:35",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONMissed Two Pointer (0/2 -  2 pt)",
+            "time_remaining": "09:35",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "HECKMANN, PATRICKOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "REECE, CAMRONIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "MOELLER, LEIFOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 2,
+            "team1_event": "IVEY, BRAEIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "00:00",
+            "team2_event": "SIMPSON, ZAVIERAssist (8)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "00:06",
+            "team2_event": "HANKINS, ZACHDef Rebound (7)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONMissed Two Pointer (1/6 -  4 pt)",
+            "time_remaining": "00:08",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONSteal (1)",
+            "time_remaining": "00:14",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "00:15",
+            "team2_event": "HANKINS, ZACHTurnover (4)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "00:32",
+            "team2_event": "HERVEY, KEVINSteal (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "KENNEDY, KEONDRETurnover (1)",
+            "time_remaining": "00:33",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "00:42",
+            "team2_event": "SIMPSON, ZAVIERAssist (7)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "00:57",
+            "team2_event": "HERVEY, KEVINDef Rebound (4)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECMissed Three Pointer (0/3 -  3 pt)",
+            "time_remaining": "00:59",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONAssist (2)",
+            "time_remaining": "01:28",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "01:44",
+            "team2_event": "HERVEY, KEVINTurnover (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "01:46",
+            "team2_event": "SIMPSON, ZAVIERSteal (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONTurnover (4)",
+            "time_remaining": "01:48",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "01:57",
+            "team2_event": "SIMPSON, ZAVIERAssist (6)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECMissed Free Throw (0/1 -  2 pt)",
+            "time_remaining": "02:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECFoul Drawn (2)",
+            "time_remaining": "02:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "02:15",
+            "team2_event": "HERVEY, KEVINFoul (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECSteal (1)",
+            "time_remaining": "02:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "02:15",
+            "team2_event": "RICHARD, PATRICKTurnover (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "02:20",
+            "team2_event": "HANKINS, ZACHDef Rebound (6)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECMissed Two Pointer (1/5 -  2 pt)",
+            "time_remaining": "02:22",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "02:36",
+            "team2_event": "SIMPSON, ZAVIERMissed Free Throw (3/5 -  20 pt)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "02:36",
+            "team2_event": "SIMPSON, ZAVIERFoul Drawn (4)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONFoul (4)",
+            "time_remaining": "02:36",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "02:52",
+            "team2_event": "RICHARD, PATRICKSteal (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECTurnover (1)",
+            "time_remaining": "02:53",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "03:08",
+            "team2_event": "SIMPSON, ZAVIERFoul Drawn (3)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "MOELLER, LEIFFoul (1)",
+            "time_remaining": "03:08",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONDef Rebound (3)",
+            "time_remaining": "03:35",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "03:35",
+            "team2_event": "SIMPSON, ZAVIERMissed Free Throw (1/2 -  18 pt)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "03:35",
+            "team2_event": "SALIN, SASUOut"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "03:35",
+            "team2_event": "MEJERIS, MAREKSIn"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKOut",
+            "time_remaining": "03:35",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "GREY, JAREDIn",
+            "time_remaining": "03:35",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "03:35",
+            "team2_event": "SIMPSON, ZAVIERFoul Drawn (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKFoul (4)",
+            "time_remaining": "03:35",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "03:35",
+            "team2_event": "HERVEY, KEVINAssist (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "03:54",
+            "team2_event": "HANKINS, ZACHDef Rebound (5)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONMissed Two Pointer (1/5 -  4 pt)",
+            "time_remaining": "03:56",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "04:06",
+            "team2_event": "RICHARD, PATRICKAssist (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "04:42",
+            "team2_event": "GUZMAN, KARELAssist (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "04:42",
+            "team2_event": "RICHARD, PATRICKIn"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "04:42",
+            "team2_event": "SEELEY, DENNISOut"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "04:42",
+            "team2_event": "HERVEY, KEVINIn"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "04:42",
+            "team2_event": "GUZMAN, KARELOut"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "OGBE, KENNETHOut",
+            "time_remaining": "04:42",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "KENNEDY, KEONDREIn",
+            "time_remaining": "04:42",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "MOELLER, LEIFIn",
+            "time_remaining": "04:42",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAEOut",
+            "time_remaining": "04:42",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "04:42",
+            "team2_event": "TV Time Out (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "04:42",
+            "team2_event": "SALIN, SASUFoul Drawn (4)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECFoul (1)",
+            "time_remaining": "04:42",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKAssist (3)",
+            "time_remaining": "04:55",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "05:04",
+            "team2_event": "SEELEY, DENNISAssist (3)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECAssist (3)",
+            "time_remaining": "05:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAESteal (2)",
+            "time_remaining": "05:22",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "05:23",
+            "team2_event": "SIMPSON, ZAVIERTurnover (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "BARNETT, JORDANOut",
+            "time_remaining": "05:38",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONIn",
+            "time_remaining": "05:38",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "05:38",
+            "team2_event": "Def Rebound (3)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "BARNETT, JORDANMissed Three Pointer (0/5 -  11 pt)",
+            "time_remaining": "05:39",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "05:55",
+            "team2_event": "SIMPSON, ZAVIERFoul Drawn (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAEFoul (2)",
+            "time_remaining": "05:55",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECIn",
+            "time_remaining": "06:08",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "RICH, OSAROOut",
+            "time_remaining": "06:08",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAETurnover (2)",
+            "time_remaining": "06:08",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "RICH, OSAROMissed Free Throw (0/1 -  5 pt)",
+            "time_remaining": "06:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "RICH, OSAROFoul Drawn (2)",
+            "time_remaining": "06:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "06:52",
+            "team2_event": "SALIN, SASUFoul (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAESteal (1)",
+            "time_remaining": "06:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "06:52",
+            "team2_event": "HANKINS, ZACHTurnover (3)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "06:55",
+            "team2_event": "GUZMAN, KARELFoul Drawn (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKFoul (3)",
+            "time_remaining": "06:55",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "06:57",
+            "team2_event": "STEPHENS, DE'SHAWNOut"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "06:57",
+            "team2_event": "HANKINS, ZACHIn"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAEAssist (2)",
+            "time_remaining": "07:05",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:15",
+            "team2_event": "MOKOKA, ADAMOut"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:15",
+            "team2_event": "SIMPSON, ZAVIERIn"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAEFoul Drawn (3)",
+            "time_remaining": "07:15",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:15",
+            "team2_event": "MOKOKA, ADAMFoul (3)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAEDef Rebound (2)",
+            "time_remaining": "07:27",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:27",
+            "team2_event": "STEPHENS, DE'SHAWNMissed Free Throw (3/6 -  9 pt)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:27",
+            "team2_event": "STEPHENS, DE'SHAWNMissed Free Throw (3/5 -  9 pt)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:27",
+            "team2_event": "STEPHENS, DE'SHAWNFoul Drawn (3)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKFoul (2)",
+            "time_remaining": "07:27",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:30",
+            "team2_event": "MOKOKA, ADAMDef Rebound (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:32",
+            "team2_event": "STEPHENS, DE'SHAWNBlock (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "RICH, OSAROShot Rejected (1)",
+            "time_remaining": "07:33",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "RICH, OSAROMissed Two Pointer (1/3 -  5 pt)",
+            "time_remaining": "07:33",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKSteal (1)",
+            "time_remaining": "07:37",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:39",
+            "team2_event": "MOKOKA, ADAMTurnover (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:51",
+            "team2_event": "STEPHENS, DE'SHAWNDef Rebound (6)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKMissed Free Throw (0/1 -  2 pt)",
+            "time_remaining": "07:51",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKFoul Drawn (1)",
+            "time_remaining": "07:51",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "07:51",
+            "team2_event": "STEPHENS, DE'SHAWNFoul (2)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "BARNETT, JORDANAssist (1)",
+            "time_remaining": "07:51",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAEDef Rebound (1)",
+            "time_remaining": "07:55",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "08:00",
+            "team2_event": "MOKOKA, ADAMMissed Two Pointer (4/6 -  9 pt)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "BARNETT, JORDANTurnover (2)",
+            "time_remaining": "08:18",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKAssist (2)",
+            "time_remaining": "08:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "09:12",
+            "team2_event": "SALIN, SASUFoul Drawn (3)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "BARNETT, JORDANTurnover (1)",
+            "time_remaining": "09:12",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "BARNETT, JORDANOffensive Foul (1)",
+            "time_remaining": "09:12",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "09:22",
+            "team2_event": "STEPHENS, DE'SHAWNOff Rebound (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "09:24",
+            "team2_event": "GUZMAN, KARELMissed Three Pointer (0/1 -  4 pt)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKIn",
+            "time_remaining": "09:43",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "TANGERMANN, MIKAOut",
+            "time_remaining": "09:43",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "BARNETT, JORDANFoul Drawn (2)",
+            "time_remaining": "09:43",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "09:43",
+            "team2_event": "GUZMAN, KARELFoul (1)"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAEAssist (1)",
+            "time_remaining": "09:43",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "10:00",
+            "team2_event": "MOKOKA, ADAMIn"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "10:00",
+            "team2_event": "MEJERIS, MAREKSOut"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "10:00",
+            "team2_event": "SIMPSON, ZAVIEROut"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "",
+            "time_remaining": "10:00",
+            "team2_event": "GUZMAN, KARELIn"
+        },
+        {
+            "quarter": 3,
+            "team1_event": "HECKMANN, PATRICKOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "BARNETT, JORDANIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "TANGERMANN, MIKAIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "REECE, CAMRONOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "KENNEDY, KEONDREOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "LOTTIE, JAIZECOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "RICH, OSAROIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 3,
+            "team1_event": "IVEY, BRAEIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "00:34",
+            "team2_event": "MACIUCA, MIHAIDef Rebound (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "GREY, JAREDMissed Free Throw (0/2 -  0 pt)",
+            "time_remaining": "00:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "GREY, JAREDMissed Free Throw (0/1 -  0 pt)",
+            "time_remaining": "00:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "GREY, JAREDFoul Drawn (1)",
+            "time_remaining": "00:34",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "00:34",
+            "team2_event": "GUZMAN, KARELFoul (4)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFSteal (1)",
+            "time_remaining": "00:36",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "00:38",
+            "team2_event": "SOMACESCU, TUDORTurnover (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "LOTTIE, JAIZECFoul Drawn (3)",
+            "time_remaining": "00:49",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "00:49",
+            "team2_event": "GUZMAN, KARELFoul (3)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "GREY, JAREDDef Rebound (1)",
+            "time_remaining": "00:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "00:55",
+            "team2_event": "MACIUCA, MIHAIMissed Three Pointer (0/2 -  2 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "01:17",
+            "team2_event": "HANKINS, ZACHDef Rebound (10)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFMissed Free Throw (0/2 -  2 pt)",
+            "time_remaining": "01:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFMissed Free Throw (0/1 -  2 pt)",
+            "time_remaining": "01:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "GREY, JAREDIn",
+            "time_remaining": "01:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "RICH, OSAROOut",
+            "time_remaining": "01:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFFoul Drawn (2)",
+            "time_remaining": "01:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "01:17",
+            "team2_event": "MACIUCA, MIHAIFoul (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFDef Rebound (2)",
+            "time_remaining": "01:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "01:18",
+            "team2_event": "SOMACESCU, TUDORMissed Two Pointer (0/1 -  2 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "01:27",
+            "team2_event": "MACIUCA, MIHAIDef Rebound (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "LOTTIE, JAIZECMissed Three Pointer (0/4 -  3 pt)",
+            "time_remaining": "01:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "01:44",
+            "team2_event": "MOKOKA, ADAMAssist (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "LOTTIE, JAIZECAssist (5)",
+            "time_remaining": "02:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "LOTTIE, JAIZECDef Rebound (1)",
+            "time_remaining": "02:04",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "02:07",
+            "team2_event": "SOMACESCU, TUDORMissed Three Pointer (0/1 -  2 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "02:20",
+            "team2_event": "HANKINS, ZACHDef Rebound (9)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "BARNETT, JORDANMissed Three Pointer (0/7 -  15 pt)",
+            "time_remaining": "02:22",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "02:45",
+            "team2_event": "MOKOKA, ADAMDef Rebound (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "TANGERMANN, MIKAMissed Two Pointer (0/1 -  0 pt)",
+            "time_remaining": "02:46",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "TANGERMANN, MIKASteal (1)",
+            "time_remaining": "02:48",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "02:49",
+            "team2_event": "HANKINS, ZACHTurnover (7)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "02:50",
+            "team2_event": "HANKINS, ZACHDef Rebound (8)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFMissed Two Pointer (1/2 -  2 pt)",
+            "time_remaining": "02:52",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "RICH, OSAROFoul Drawn (5)",
+            "time_remaining": "03:16",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "03:16",
+            "team2_event": "HANKINS, ZACHTurnover (6)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "03:16",
+            "team2_event": "HANKINS, ZACHOffensive Foul (3)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "RICH, OSAROFoul Drawn (4)",
+            "time_remaining": "03:16",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "03:16",
+            "team2_event": "MACIUCA, MIHAIFoul (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "LOTTIE, JAIZECSteal (2)",
+            "time_remaining": "03:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "03:18",
+            "team2_event": "HANKINS, ZACHTurnover (5)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "LOTTIE, JAIZECAssist (4)",
+            "time_remaining": "03:22",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFFoul Drawn (1)",
+            "time_remaining": "03:44",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "03:44",
+            "team2_event": "GUZMAN, KARELTurnover (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "03:44",
+            "team2_event": "GUZMAN, KARELOffensive Foul (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "03:46",
+            "team2_event": "GUZMAN, KARELOff Rebound (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "03:47",
+            "team2_event": "MACIUCA, MIHAIMissed Three Pointer (0/1 -  0 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "HECKMANN, PATRICKOut",
+            "time_remaining": "04:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "BARNETT, JORDANIn",
+            "time_remaining": "04:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "Turnover (2)",
+            "time_remaining": "04:06",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "04:30",
+            "team2_event": "STEPHENS, DE'SHAWNOut"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "04:30",
+            "team2_event": "HANKINS, ZACHIn"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "TANGERMANN, MIKAIn",
+            "time_remaining": "04:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "REECE, CAMRONOut",
+            "time_remaining": "04:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "LOTTIE, JAIZECIn",
+            "time_remaining": "04:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEOut",
+            "time_remaining": "04:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "04:30",
+            "team2_event": "SOMACESCU, TUDORFoul Drawn (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "REECE, CAMRONFoul (5)",
+            "time_remaining": "04:30",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "04:34",
+            "team2_event": "SOMACESCU, TUDORDef Rebound (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "RICH, OSAROMissed Two Pointer (1/4 -  6 pt)",
+            "time_remaining": "04:37",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:00",
+            "team2_event": "MOKOKA, ADAMSteal (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "HECKMANN, PATRICKTurnover (1)",
+            "time_remaining": "05:01",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "HECKMANN, PATRICKDef Rebound (2)",
+            "time_remaining": "05:09",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFBlock (1)",
+            "time_remaining": "05:10",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:12",
+            "team2_event": "MACIUCA, MIHAIShot Rejected (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:12",
+            "team2_event": "MACIUCA, MIHAIMissed Two Pointer (0/1 -  0 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "REECE, CAMRONFoul Drawn (2)",
+            "time_remaining": "05:38",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:38",
+            "team2_event": "SOMACESCU, TUDORFoul (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEAssist (4)",
+            "time_remaining": "05:38",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:47",
+            "team2_event": "MOKOKA, ADAMIn"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:47",
+            "team2_event": "RICHARD, PATRICKOut"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:47",
+            "team2_event": "MACIUCA, MIHAIIn"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:47",
+            "team2_event": "HERVEY, KEVINOut"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "05:58",
+            "team2_event": "STEPHENS, DE'SHAWNOff Rebound (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "06:00",
+            "team2_event": "STEPHENS, DE'SHAWNMissed Two Pointer (3/5 -  9 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "BARNETT, JORDANOut",
+            "time_remaining": "06:10",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "REECE, CAMRONIn",
+            "time_remaining": "06:10",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "06:10",
+            "team2_event": "GUZMAN, KARELFoul Drawn (3)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "BARNETT, JORDANFoul (2)",
+            "time_remaining": "06:10",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "06:10",
+            "team2_event": "HERVEY, KEVINMissed Three Pointer (0/4 -  2 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "06:14",
+            "team2_event": "STEPHENS, DE'SHAWNDef Rebound (7)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFMissed Three Pointer (0/2 -  2 pt)",
+            "time_remaining": "06:17",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEFoul Drawn (6)",
+            "time_remaining": "06:29",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "06:29",
+            "team2_event": "SOMACESCU, TUDORFoul (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "06:33",
+            "team2_event": "HERVEY, KEVINAssist (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "OGBE, KENNETHOut",
+            "time_remaining": "06:56",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFIn",
+            "time_remaining": "06:56",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEFoul Drawn (5)",
+            "time_remaining": "06:56",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "06:56",
+            "team2_event": "STEPHENS, DE'SHAWNFoul (4)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "BARNETT, JORDANDef Rebound (2)",
+            "time_remaining": "07:03",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:05",
+            "team2_event": "HERVEY, KEVINMissed Three Pointer (0/3 -  2 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:17",
+            "team2_event": "GUZMAN, KARELDef Rebound (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "HECKMANN, PATRICKMissed Three Pointer (0/2 -  2 pt)",
+            "time_remaining": "07:19",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:39",
+            "team2_event": "MEJERIS, MAREKSOut"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:39",
+            "team2_event": "SIMPSON, ZAVIEROut"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:39",
+            "team2_event": "SOMACESCU, TUDORIn"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:39",
+            "team2_event": "GUZMAN, KARELIn"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "HECKMANN, PATRICKIn",
+            "time_remaining": "07:39",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "GREY, JAREDOut",
+            "time_remaining": "07:39",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "Time Out (1)",
+            "time_remaining": "07:39",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:39",
+            "team2_event": "RICHARD, PATRICKFoul Drawn (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "GREY, JAREDFoul (1)",
+            "time_remaining": "07:39",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:39",
+            "team2_event": "RICHARD, PATRICKSteal (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAETurnover (3)",
+            "time_remaining": "07:40",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "07:58",
+            "team2_event": "SIMPSON, ZAVIERFoul Drawn (5)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEFoul (3)",
+            "time_remaining": "07:58",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEFoul Drawn (4)",
+            "time_remaining": "08:07",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "08:07",
+            "team2_event": "STEPHENS, DE'SHAWNFoul (3)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "RICH, OSAROFoul Drawn (3)",
+            "time_remaining": "08:16",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "08:16",
+            "team2_event": "RICHARD, PATRICKFoul (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "BARNETT, JORDANDef Rebound (1)",
+            "time_remaining": "08:20",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "08:22",
+            "team2_event": "HERVEY, KEVINMissed Three Pointer (0/2 -  2 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "08:42",
+            "team2_event": "STEPHENS, DE'SHAWNFoul Drawn (4)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "OGBE, KENNETHFoul (2)",
+            "time_remaining": "08:42",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "BARNETT, JORDANMissed Three Pointer (0/6 -  13 pt)",
+            "time_remaining": "08:42",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "GREY, JAREDOff Rebound (1)",
+            "time_remaining": "08:45",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEMissed Three Pointer (1/3 -  9 pt)",
+            "time_remaining": "08:47",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "09:03",
+            "team2_event": "STEPHENS, DE'SHAWNIn"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "09:03",
+            "team2_event": "HANKINS, ZACHOut"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "09:03",
+            "team2_event": "SIMPSON, ZAVIERTurnover (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEAssist (3)",
+            "time_remaining": "09:21",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "09:45",
+            "team2_event": "Off Rebound (1)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEBlock (1)",
+            "time_remaining": "09:45",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "09:45",
+            "team2_event": "SIMPSON, ZAVIERShot Rejected (2)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "",
+            "time_remaining": "09:45",
+            "team2_event": "SIMPSON, ZAVIERMissed Two Pointer (5/9 -  23 pt)"
+        },
+        {
+            "quarter": 4,
+            "team1_event": "OGBE, KENNETHIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "BARNETT, JORDANIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "REECE, CAMRONOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "KENNEDY, KEONDREOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "MOELLER, LEIFOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "LOTTIE, JAIZECOut",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "RICH, OSAROIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        },
+        {
+            "quarter": 4,
+            "team1_event": "IVEY, BRAEIn",
+            "time_remaining": "10:00",
+            "team2_event": ""
+        }
+    ]
+}
